@@ -7,4 +7,4 @@ xypp-custom-user-remarks:
     set_remark: Set remark
     edit_remark: Edit remark
     submit_button: Submit
-    real_display_name: "Real name:{n}"
+    real_display_name: "Original name:{n}"
