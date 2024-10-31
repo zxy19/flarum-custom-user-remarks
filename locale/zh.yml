@@ -1,0 +1,10 @@
+xypp-custom-user-remarks:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    allow_set_remarks: 允许设置备注
+  forum:
+    set_remark: 设置备注
+    edit_remark: 编辑备注
+    submit_button: 提交
+    real_display_name: "真实名字:{n}"
